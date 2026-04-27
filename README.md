@@ -1,19 +1,50 @@
-# Programming Fundamentals (TypeScript)
+# Fundamentos de Programación con TypeScript
 
-This repository contains exercises that I completed during a **Programming Fundamentals course on Udemy**.  
-The purpose of this project is to practice and reinforce the core concepts of programming using **TypeScript**.
+Repositorio de ejercicios prácticos realizados durante un curso de **Fundamentos de Programación** en Udemy.  
+El objetivo es practicar y afianzar los conceptos esenciales de programación usando **TypeScript** como lenguaje principal.
 
-## Technologies
+---
+
+## 🛠 Tecnologías
+
 - TypeScript
+- Node.js (entorno de ejecución)
 
-## Topics Covered
+---
 
-The exercises in this repository cover the following programming concepts:
+## 📚 Temas cubiertos
 
-- Variables
-- Data types (`number`, `string`, `boolean`)
-- Control structures (`if`, `if-else`, `switch`, `for`, `while`, `do-while`, `continue`, `break`)
-- Functions
-- Arrays
-- Objects
-- Classes
+| Tema | Descripción |
+|---|---|
+| **Variables** | Declaración con `let` y tipado explícito |
+| **Tipos de datos** | `string`, `number`, `boolean` |
+| **Condicionales** | `if`, `if-else`, `switch` |
+| **Ciclos** | `for`, `while`, `do-while`, `continue`, `break` |
+| **Funciones** | Parámetros, valores por defecto, retorno de tipos |
+| **Módulos** | `import` / `export` entre archivos |
+| **Arreglos** | Tipado, recorrido e indexación |
+| **Objetos** | Literales, interfaces|
+| **Clases** | Constructores, métodos, `public`, `private`, `readonly`, `static` |
+
+## 🚀 ¿Cómo ejecutar?
+
+1. Clona el repositorio:
+```bash
+   git clone https://github.com/andresmdevco fundamentos-programacion-typescript.git
+```
+
+2. Instala las dependencias:
+```bash
+   npm install
+```
+
+3. Copia el contenido del archivo que quieras probar y pégalo en `app.ts`.
+
+4. Ejecuta en modo watch (se recarga automáticamente al guardar):
+```bash
+   npm run dev:watch
+```
+  O si solo quieres ejecutarlo una vez:
+```bash
+   npm run dev
+```
