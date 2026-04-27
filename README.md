@@ -7,8 +7,8 @@ El objetivo es practicar y afianzar los conceptos esenciales de programación us
 
 ## 🛠 Tecnologías
 
-- TypeScript
-- Node.js (entorno de ejecución)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ---
 
@@ -26,7 +26,7 @@ El objetivo es practicar y afianzar los conceptos esenciales de programación us
 | **Objetos** | Literales, interfaces|
 | **Clases** | Constructores, métodos, `public`, `private`, `readonly`, `static` |
 
-## 🚀 ¿Cómo ejecutar?
+## ⚙️ Cómo ejecutar el proyecto
 
 1. Clona el repositorio:
 ```bash
